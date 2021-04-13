@@ -14,19 +14,15 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Setup MSBuild
-      uses: microsoft/setup-msbuild@v1
-
-    - name: Setup NuGet
-      uses: NuGet/setup-nuget@v1.0.2
-      
-    - name: Restore NuGet Packages
-      run: nuget restore PHF.sln
-      
-    - name: Test App
-      run: dotnet test
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 2.2.108
       
     - name: Build App
-      run: dotnet build
+      run: dotnet build --configuration Release
+      
+    - name: Test App
+      run: dotnet test --verbosity normal
       
 
