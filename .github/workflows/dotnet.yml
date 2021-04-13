@@ -23,5 +23,10 @@ jobs:
     - name: Restore NuGet Packages
       run: nuget restore PHF.sln
       
+    - name: Test App
+      run: dotnet test
+      
     - name: Build App
-      run: msbuild PHF.sln \p:Configuration=Release
+      run: dotnet build
+      
+
