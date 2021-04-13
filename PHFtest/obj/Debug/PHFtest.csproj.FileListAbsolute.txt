@@ -1,0 +1,8 @@
+C:\Users\Andra\Desktop\PHF\PHFtest\bin\Debug\PHFtest.dll
+C:\Users\Andra\Desktop\PHF\PHFtest\bin\Debug\PHFtest.pdb
+C:\Users\Andra\Desktop\PHF\PHFtest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andra\Desktop\PHF\PHFtest\bin\Debug\PHF.exe
+C:\Users\Andra\Desktop\PHF\PHFtest\bin\Debug\PHF.pdb
+C:\Users\Andra\Desktop\PHF\PHFtest\obj\Debug\PHFtest.csprojResolveAssemblyReference.cache
+C:\Users\Andra\Desktop\PHF\PHFtest\obj\Debug\PHFtest.dll
+C:\Users\Andra\Desktop\PHF\PHFtest\obj\Debug\PHFtest.pdb

@@ -1,0 +1,18 @@
+C:\Users\Andra\Desktop\PHF\PHF\bin\Debug\PHF.exe.config
+C:\Users\Andra\Desktop\PHF\PHF\bin\Debug\PHF.exe
+C:\Users\Andra\Desktop\PHF\PHF\bin\Debug\PHF.pdb
+C:\Users\Andra\Desktop\PHF\PHF\obj\Debug\PHF.csprojResolveAssemblyReference.cache
+C:\Users\Andra\Desktop\PHF\PHF\obj\Debug\PHF.Form1.resources
+C:\Users\Andra\Desktop\PHF\PHF\obj\Debug\PHF.Properties.Resources.resources
+C:\Users\Andra\Desktop\PHF\PHF\obj\Debug\PHF.csproj.GenerateResource.Cache
+C:\Users\Andra\Desktop\PHF\PHF\obj\Debug\PHF.exe
+C:\Users\Andra\Desktop\PHF\PHF\obj\Debug\PHF.pdb
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\bin\Debug\PHF.exe.config
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\PHF.exe
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\PHF.pdb
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\bin\Debug\PHF.exe
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\bin\Debug\PHF.pdb
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\PHF.csprojResolveAssemblyReference.cache
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\PHF.Form1.resources
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\PHF.Properties.Resources.resources
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\PHF.csproj.GenerateResource.Cache
