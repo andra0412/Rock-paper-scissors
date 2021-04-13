@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHFtest\\PHFtest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHFtest\\PHFtest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHFtest\\PHFtest.csproj",
+        "projectName": "PHFtest",
+        "projectPath": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHFtest\\PHFtest.csproj",
+        "packagesPath": "C:\\Users\\andra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHFtest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHF\\PHF.csproj": {
+                "projectPath": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHF\\PHF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHF\\PHF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHF\\PHF.csproj",
+        "projectName": "PHF",
+        "projectPath": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHF\\PHF.csproj",
+        "packagesPath": "C:\\Users\\andra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andra\\Desktop\\Proiect_Ravar Andra-Nicoleta\\PHF\\PHF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

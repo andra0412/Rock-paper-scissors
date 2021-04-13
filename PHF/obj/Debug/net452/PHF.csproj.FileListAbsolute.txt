@@ -1,0 +1,12 @@
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\bin\Debug\net452\PHF.exe.config
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\bin\Debug\net452\PHF.exe
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\bin\Debug\net452\PHF.pdb
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.csprojAssemblyReference.cache
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.Form1.resources
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.Properties.Resources.resources
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.csproj.GenerateResource.cache
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.csproj.CoreCompileInputs.cache
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.AssemblyInfoInputs.cache
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.AssemblyInfo.cs
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.exe
+C:\Users\andra\Desktop\Proiect_Ravar Andra-Nicoleta\PHF\PHF\obj\Debug\net452\PHF.pdb
